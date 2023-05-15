@@ -1,7 +1,8 @@
 {
-    "User": [{
+    "User": [
+          {
         "UserName": "Huyhh",
-        "Password": "12345678",
+        "PassWord": "12345678",
         "Email": "huy@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -18,7 +19,7 @@
     },
     {
         "UserName": "Huynh",
-        "Password": "1234hhhh",
+        "PassWord": "1234hhhh",
         "Email": "huynh@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -35,8 +36,8 @@
     },
     {
         "UserName": "GiaHuy",
-        "Password": "Password",
-        "Email": "Email",
+        "PassWord": "PassWord",
+        "Email": "giahuy@gmail.com",
         "FirstName": "FirstName",
         "SurName": "SurName",
         "FullName": "FullName",
@@ -52,7 +53,7 @@
     },
     {
         "UserName": "VanAAA",
-        "Password": "12345678",
+        "PassWord": "12345678",
         "Email": "huy@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -69,7 +70,7 @@
     },
     {
         "UserName": "VAnBBB",
-        "Password": "1234hhhh",
+        "PassWord": "1234hhhh",
         "Email": "huynh@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -86,7 +87,7 @@
     },
     {
         "UserName": "LyHai",
-        "Password": "12345678",
+        "PassWord": "12345678",
         "Email": "huy@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -103,7 +104,7 @@
     },
     {
         "UserName": "HVanTauynh",
-        "Password": "1234hhhh",
+        "PassWord": "1234hhhh",
         "Email": "huynh@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -120,7 +121,7 @@
     },
     {
         "UserName": "HaiLy",
-        "Password": "12345678",
+        "PassWord": "12345678",
         "Email": "huy@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -137,7 +138,7 @@
     },
     {
         "UserName": "VanTai",
-        "Password": "1234hhhh",
+        "PassWord": "1234hhhh",
         "Email": "huynh@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -154,7 +155,7 @@
     },
     {
         "UserName": "AnhDuy",
-        "Password": "12345678",
+        "PassWord": "12345678",
         "Email": "huy@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -171,7 +172,7 @@
     },
     {
         "UserName": "VanToan",
-        "Password": "1234hhhh",
+        "PassWord": "1234hhhh",
         "Email": "huynh@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -188,7 +189,7 @@
     },
     {
         "UserName": "ManhThang",
-        "Password": "12345678",
+        "PassWord": "12345678",
         "Email": "huy@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -205,7 +206,7 @@
     },
     {
         "UserName": "HoaHon",
-        "Password": "1234hhhh",
+        "PassWord": "1234hhhh",
         "Email": "huynh@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -221,7 +222,7 @@
         "IntroduceYourself": "Nhiệt tình"
     },{
         "UserName": "TienDe",
-        "Password": "12345678",
+        "PassWord": "12345678",
         "Email": "huy@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -238,7 +239,7 @@
     },
     {
         "UserName": "NgichTheinC",
-        "Password": "1234hhhh",
+        "PassWord": "1234hhhh",
         "Email": "huynh@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -254,7 +255,7 @@
         "IntroduceYourself": "Nhiệt tình"
     },{
         "UserName": "ThuThsn",
-        "Password": "12345678",
+        "PassWord": "12345678",
         "Email": "huy@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -271,7 +272,7 @@
     },
     {
         "UserName": "Lanmsb",
-        "Password": "1234hhhh",
+        "PassWord": "1234hhhh",
         "Email": "huynh@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -287,7 +288,7 @@
         "IntroduceYourself": "Nhiệt tình"
     },{
         "UserName": "Nhdivanw",
-        "Password": "12345678",
+        "PassWord": "12345678",
         "Email": "huy@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -304,7 +305,7 @@
     },
     {
         "UserName": "Hanhjsh",
-        "Password": "1234hhhh",
+        "PassWord": "1234hhhh",
         "Email": "huynh@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
@@ -320,7 +321,7 @@
         "IntroduceYourself": "Nhiệt tình"
     },{
         "UserName": "Huylanhh",
-        "Password": "12345678",
+        "PassWord": "12345678",
         "Email": "huy@gmail.com",
         "FirstName": "Huynh",
         "SurName": "GiaHuy",
