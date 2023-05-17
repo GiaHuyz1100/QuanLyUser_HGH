@@ -1,29 +1,3 @@
-// import { Routes, Route } from "react-router-dom";
-
-// import Profile from "./components/Profile";
-// import SignUp from "./components/SignUp";
-// import SignIn from "./components/SignIn";
-// import UpdateUser from "./components/UpdateUser";
-// import 'antd/dist/reset.css';
-// import "./assets/styles/main.css";
-// import "./assets/styles/responsive.css";
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <Routes>
-//         <Route path="/" element={<SignIn/>} />
-//         <Route path="/sign-in" element={<SignIn/>} />
-//         <Route path="/sign-up" element={<SignUp/>} />
-//         <Route path="/profile" element={<Profile />} />
-//         <Route path="/update" element={<UpdateUser />} />
-//       </Routes>
-//     </div>
-//   );
-// }
-
-// export default App;
-
 import React, { useEffect, useState } from 'react';
 import { Routes, Route, Link, useNavigate } from 'react-router-dom';
 import { Layout, Menu } from 'antd';
@@ -109,7 +83,7 @@ const App = () => {
               {!isLoggedIn && <Route path="/" element={<LoginForm setIsLoggedIn={setIsLoggedIn} />} />}
               {isLoggedIn && (
                 <>
-                  <Route path="/update/:id" element={<UpdateUser />} />
+                  <Route path="/update/:UserName" element={<UpdateUser />} />
                 </>
               )}
             </Routes>

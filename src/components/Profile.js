@@ -1,14 +1,7 @@
-
 import React, { Component } from "react";
 import {
   Layout,
   Menu,
-  Button,
-  Typography,
-  Card,
-  Form,
-  Input,
-  Checkbox,
 } from "antd";
 
 import { Link } from "react-router-dom";
@@ -19,7 +12,6 @@ import {
   InstagramOutlined,
   GithubOutlined,
 } from "@ant-design/icons";
-const { Title } = Typography;
 const { Footer } = Layout;
 
 export default class Profile extends Component {
@@ -37,6 +29,9 @@ export default class Profile extends Component {
                     <td>{user.UserName}</td>
                     <td>{user.PassWord}</td>
                     <td>{user.Email}</td>
+                    <td>
+                      <Link to={`/update/${user.UserName}`}className='btn btn-sm btn-primary me'>Edit</Link>
+                    </td>
                 </tr>
         )
       })
@@ -55,6 +50,7 @@ export default class Profile extends Component {
                     <th>UserName</th>
                     <th>Password</th>
                     <th>Email</th>
+                    <th>Action</th>
                     </tr>
                 </thead>
                 <tbody>
